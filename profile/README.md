@@ -10,5 +10,5 @@ Library:
 
 Examples:
 
-- [ic-alloy-toolkit](https://github.com/ic-alloy/ic-alloy-toolkit): A collection of examples on how to perform common EVM operations. Rust backend and React/Vite frontend. [Live demo](https://u4yi6-xiaaa-aaaap-aib2q-cai.icp0.io)
-- [ic-alloy-basic-wallet](https://github.com/ic-alloy/ic-alloy-basic-wallet): A basic Ethereum multi-user wallet. Rust backend and React/Vite frontend. [Live demo](https://7vics-6yaaa-aaaai-ap7lq-cai.icp0.io)
+- [ic-alloy-toolkit](https://github.com/ic-alloy/ic-alloy-toolkit): A collection of examples on how to perform common EVM operations. [Live demo](https://u4yi6-xiaaa-aaaap-aib2q-cai.icp0.io)
+- [ic-alloy-basic-wallet](https://github.com/ic-alloy/ic-alloy-basic-wallet): A basic Ethereum multi-user wallet. [Live demo](https://7vics-6yaaa-aaaai-ap7lq-cai.icp0.io)
