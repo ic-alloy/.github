@@ -1,6 +1,6 @@
 ![ic-alloy](./hero.png)
 
-Alloy implements high-performance, well-tested & documented libraries for interacting with Ethereum and other EVM-based chains. This fork of Alloy adds support for the [Internet Computer](https://internetcomputer.org) (ICP) both as a transport layer and as a signer.
+[Alloy](https://alloy.rs/) implements high-performance, well-tested & documented libraries for interacting with Ethereum and other EVM-based chains. This fork of Alloy adds support for the [Internet Computer](https://internetcomputer.org) (ICP) both as a transport layer and as a signer.
 
 `ic-alloy` abstracts away a lot of complexities involved with interacting with an EVM RPC from inside an ICP canister.
 
