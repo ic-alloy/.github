@@ -7,6 +7,7 @@
 Library:
 
 - [ic-alloy](https://github.com/ic-alloy/ic-alloy): The `ic-alloy` library is the Rust crate that you add to you project dependencies. Instead of interacting directly with the ICP EVM RPC canister, you interact with `ic-alloy`.
+- Documentation: https://o7kje-7yaaa-aaaal-qnaua-cai.icp0.io
 
 Examples:
 
